@@ -1,10 +1,10 @@
-Entity,SOV_A3,wat_imp_without
+Entity,ADM0_A3,wat_imp_without
 Fiji,FJI,5.7
 Tanzania,TZA,27.99
 NA,SAH,NA
 Canada,CAN,0.78
-NA,US1,NA
-NA,KA1,NA
+United States,USA,0.12
+Kazakhstan,KAZ,2.62
 Uzbekistan,UZB,2.17
 Papua New Guinea,PNG,52.53
 Indonesia,IDN,6.73
@@ -19,10 +19,10 @@ Haiti,HTI,23.49
 Dominican Republic,DOM,2.85
 Russia,RUS,2.39
 NA,BHS,NA
-NA,GB1,NA
+Falkland Islands,FLK,4.69
 Norway,NOR,0
-NA,DN1,NA
-NA,FR1,NA
+Greenland,GRL,0
+NA,ATF,NA
 East Timor,TLS,12.62
 South Africa,ZAF,3.34
 Lesotho,LSO,17.42
@@ -42,11 +42,11 @@ Belize,BLZ,0.35
 Venezuela,VEN,5.84
 Guyana,GUY,3.24
 Suriname,SUR,0.94
-NA,FR1,NA
+France,FRA,0
 Ecuador,ECU,4.64
-NA,US1,NA
+Puerto Rico,PRI,0
 Jamaica,JAM,3.6
-NA,CU1,NA
+Cuba,CUB,1.53
 Zimbabwe,ZWE,23.14
 Botswana,BWA,3.06
 Namibia,NAM,8.64
@@ -75,10 +75,10 @@ Mozambique,MOZ,26.65
 Eswatini,SWZ,19.74
 Angola,AGO,33.54
 Burundi,BDI,18.35
-NA,IS1,NA
+Israel,ISR,0
 Lebanon,LBN,0
 Madagascar,MDG,43.9
-NA,IS1,NA
+NA,PSX,NA
 Gambia,GMB,10.46
 Tunisia,TUN,0.83
 Algeria,DZA,0.58
@@ -129,20 +129,20 @@ NA,HRV,NA
 Switzerland,CHE,0
 Luxembourg,LUX,0.12
 Belgium,BEL,0
-NA,NL1,NA
+Netherlands,NLD,0
 Portugal,PRT,0.09
 Spain,ESP,0.07
 Ireland,IRL,2.6
-NA,FR1,NA
+New Caledonia,NCL,0.69
 Solomon Islands,SLB,26.9
-NA,NZ1,NA
-NA,AU1,NA
+New Zealand,NZL,0
+Australia,AUS,0.03
 Sri Lanka,LKA,7.18
-NA,CH1,NA
+China,CHN,4.92
 NA,TWN,NA
 Italy,ITA,0.08
-NA,DN1,NA
-NA,GB1,NA
+Denmark,DNK,0
+United Kingdom,GBR,0
 Iceland,ISL,0
 Azerbaijan,AZE,2.91
 Georgia,GEO,2.65
@@ -150,7 +150,7 @@ Philippines,PHL,3.03
 Malaysia,MYS,2.55
 Brunei,BRN,0.1
 Slovenia,SVN,0.5
-NA,FI1,NA
+Finland,FIN,0
 Slovakia,SVK,0
 Czechia,CZE,0.12
 NA,ERI,NA
